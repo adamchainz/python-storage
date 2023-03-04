@@ -4,6 +4,15 @@
 
 [1]: https://pypi.org/project/google-cloud-storage/#history
 
+## [2.7.1](https://github.com/googleapis/python-storage/compare/v2.7.0...v2.7.1) (2023-03-04)
+
+
+### Documentation
+
+* Add clarifications to read timeout ([#873](https://github.com/googleapis/python-storage/issues/873)) ([8fb26f4](https://github.com/googleapis/python-storage/commit/8fb26f439cf28ac4ec7a841db1cd0fd60ea77362))
+* Fix c.g.c structure ([#982](https://github.com/googleapis/python-storage/issues/982)) ([d5a2931](https://github.com/googleapis/python-storage/commit/d5a29318b5c68678ea63eb40a4dfede562f8963e))
+* Update c.g.c docs and guides  ([#994](https://github.com/googleapis/python-storage/issues/994)) ([62b4a50](https://github.com/googleapis/python-storage/commit/62b4a500e40860c54c53d12323434d28739f9812))
+
 ## [2.7.0](https://github.com/googleapis/python-storage/compare/v2.6.0...v2.7.0) (2022-12-07)
 
 
